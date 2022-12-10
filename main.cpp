@@ -1,5 +1,6 @@
 #include <iostream>
 #include "lib.cpp"
+#include "lib.h"
 
 int main(){
 int arraySize=0;
